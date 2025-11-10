@@ -5,3 +5,6 @@
 [submodule "avilistr"]
 	path = avilistr
 	url = https://github.com/dalyanalytics/avilistr
+[submodule "shinyfa"]
+	path = shinyfa
+	url = https://github.com/dalyanalytics/shinyfa
